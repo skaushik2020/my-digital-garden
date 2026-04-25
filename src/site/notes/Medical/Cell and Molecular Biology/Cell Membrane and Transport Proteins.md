@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/medical/cell-and-molecular-biology/cell-membrane-and-transport-proteins/","tags":["gardenEntry"],"dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/medical/cell-and-molecular-biology/cell-membrane-and-transport-proteins/","tags":["gardenEntry"],"dg-note-properties":{"share_link":"https://share.note.sx/i8opkh1w#G8IAUnZZu+C3d0mqU40QeXLdVC8Du9OO6xRFY4Z6NOE","share_updated":"2026-04-25T14:27:41+05:30"}}
 ---
 
 Hello from Obsidian 🚀
